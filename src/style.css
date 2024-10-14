@@ -1,0 +1,35 @@
+h1, h2 {
+    color: #d4af37;
+}
+h2 {
+    text-align: left;
+    font-size: 30px;
+}
+h1 {
+    font-size: 50px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgba(255, 215, 0, 0.2);
+    border: 1px solid gray;
+    text-align: left;
+}
+th, td {
+    border: 1px solid gray;
+    padding: 5px;
+}
+#header-img {
+    width: 100%;
+}
+img {
+    width: 33%;
+    margin: 2px;
+}
+p {
+    text-align: left;
+    font-size: 17px;
+}
+#lablec-p {
+    text-align: center;
+}
